@@ -50,5 +50,3 @@
 ![Скрин 4](img/img4.png)
 
 ![Скрин 5](img/img5.png)
-
-![Скрин 6](img/img6.png)
